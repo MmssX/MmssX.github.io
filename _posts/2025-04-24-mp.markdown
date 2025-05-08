@@ -5,8 +5,7 @@ author:       "MmssX"
 header-style: text
 catalog:      true
 tags:
-    - Web
-    - JavaScript
+    - 个人介绍
 ---
 
 # 大家好，我是MmssX
